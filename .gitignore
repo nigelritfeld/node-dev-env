@@ -1,0 +1,8 @@
+/.idea
+/.env
+/data
+/docker/MongoDBCompass/
+/docker/node/node_modules/
+/docker/node/package-lock.json
+/projects/node_modules/
+/projects/package-lock.json
