@@ -49,9 +49,9 @@ You can easily stop the environment by opening docker desktop interface and stop
     $ docker-compose down
 ```  
 
-## PhpMyAdmin
+## Mongo Express
 
-PhpMyAdmin is available on http://localhost:8080
+Mongo express is available on http://localhost:8080
 
 * The Host is 'mariadb' wich will resolve to the correct ip adress in the docker network *
 
